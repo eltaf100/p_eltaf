@@ -8,3 +8,4 @@ Ce projet contient un script bash **hello.sh** qui :
 **Auteur** : Eltaf
 
 ## Version 1.1 - TP Git réussi !
+## Modifications prestataire
