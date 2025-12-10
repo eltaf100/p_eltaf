@@ -6,3 +6,5 @@ Ce projet contient un script bash **hello.sh** qui :
 2. Affiche "Bonjour Monde !"
 
 **Auteur** : Eltaf
+
+## Version 1.1 - TP Git réussi !
